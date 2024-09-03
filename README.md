@@ -14,6 +14,9 @@
 - creator-editor/12345678
 - user/12345678
 
-to contact me: ridouaniayoub@gmail.com
-
+to contact me: ghonji.majid1394@gmail.com
+ 
 good luck
+
+1- you need to run first mysql and addd add database with mydatabase name with username =mysql and password=mysql 
+2- change spring.jpa.hibernate.dd-auto=create-drop first and after run for first time change it to update
